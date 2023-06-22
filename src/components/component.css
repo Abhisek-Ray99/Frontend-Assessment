@@ -1,0 +1,23 @@
+.section-image{
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 10px;
+}
+
+.card{
+    grid-area: span 1/span 1/span 1/span 1;
+    border-color: rgba(0,0,0,.1);
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 26px;
+}
+
+.head-txt{
+    padding-left: 0;
+    padding-right: 2em;
+    width: 66.6667%;
+    float: left;
+    min-height: 1px;
+}
+
+
